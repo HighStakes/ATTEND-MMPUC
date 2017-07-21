@@ -15,7 +15,7 @@
 		<hibernate.version>4.2.21.Final</hibernate.version>
 		<appengine.app.appId>attend-mmpuc</appengine.app.appId>
 		<appengine.app.version>1</appengine.app.version>
-		<appengine.target.version>1.9.34</appengine.target.version>
+		<appengine.target.version>1.9.54</appengine.target.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<cloudsql.url>jdbc:google:mysql://attend-mmpuc:asia-northeast1:attend-mmpuc/iAttend?user=root</cloudsql.url>
 		<cloudsql.url.dev>jdbc:mysql://localhost/iAttend?user=root</cloudsql.url.dev>
